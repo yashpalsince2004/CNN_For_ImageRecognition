@@ -123,7 +123,8 @@ Contributions and improvements are welcome. Please open an issue or submit a pul
 
 ---
 
-## 👨‍💻 Author
+## 🙋‍♂️ Author
 
-**Yash**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yash-pal-since2004)
+**Yash Pal**  
+🎓 Computer Science (AI/ML) Student  
+🌐 [LinkedIn](https://www.linkedin.com/in/yash-pal-since2004) | 🧠 Passionate about AI & Deep Learning
