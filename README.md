@@ -42,7 +42,7 @@ The dataset is downloaded automatically using `keras.datasets.mnist.load_data()`
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/cnn-mnist-recognition.git
+git clone https://github.com/yashpalsince2004/CNN_For_ImageRecognition.git
 cd cnn-mnist-recognition
 ```
 
